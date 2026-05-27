@@ -1,2 +1,1 @@
-# MiPrimerProyecto
-practica versiones de git 
+practica 2026
